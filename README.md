@@ -92,7 +92,7 @@ These expressions allow custom KPIs, dynamic measure selection, ranking, formatt
 ## 📸 Snapshot
 
 > Example:  
-> ![Dashboard Screenshot]((https://github.com/user-attachments/assets/5550c8b8-b24f-4b18-9d5e-8f59a1b77111))
+> ![Dashboard Screenshot](![Image](https://github.com/user-attachments/assets/5550c8b8-b24f-4b18-9d5e-8f59a1b77111))
 
 ---
 
