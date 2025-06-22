@@ -91,7 +91,6 @@ These expressions allow custom KPIs, dynamic measure selection, ranking, formatt
 
 ## 📸 Snapshot
 
-> *(Add a screenshot of your dashboard here)*  
 > Example:  
 > ![Dashboard Screenshot](![Image](https://github.com/user-attachments/assets/1d1627e3-94af-42d5-95cd-48d0ee908bca))
 
